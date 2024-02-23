@@ -1,0 +1,20 @@
+{
+  "name": "dubby-sdk-test",
+  "version": "1.0.0",
+  "description": "Learning Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DubbyCrypt/dubby-sdk-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DubbyCrypt/dubby-sdk-test/issues"
+  },
+  "homepage": "https://github.com/DubbyCrypt/dubby-sdk-test#readme"
+}
